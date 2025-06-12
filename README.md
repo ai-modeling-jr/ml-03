@@ -24,6 +24,9 @@
 
 wave 데이터셋에 선형회귀 적용
 
+#### LinearRegression 실습 03 - 1
+변수가 1개인 경우
+
 #### LinearRegression 실습 03 - 2
 변수가 2개인 경우
 
