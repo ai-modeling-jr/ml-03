@@ -1,4 +1,4 @@
-# ml-03 지도학습 LinearRegression
+# ml-03 지도학습 Linear Regression
 
 ### 지도학습 - 선형회귀 (Linear Regression)
 
